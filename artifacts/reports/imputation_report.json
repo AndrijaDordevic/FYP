@@ -1,0 +1,17 @@
+{
+  "proteomics": {
+    "aligned_n_samples": 248,
+    "aligned_n_features": 12126,
+    "mean_missing_fraction_per_feature": 0.2731068405399222,
+    "mean_missing_fraction_per_sample": 0.27310684053992224,
+    "assumption": "MNAR-leaning (left-censoring) mixed with MAR",
+    "planned_thresholds": {
+      "prot_keep_if_missing_frac_leq": 0.4
+    },
+    "candidate_imputers": [
+      "native",
+      "median",
+      "knn"
+    ]
+  }
+}
