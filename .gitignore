@@ -3,3 +3,5 @@
 .vscode/
 .ipynb_checkpoints/
 artifacts/cache/
+artifacts/reports/notebook 10/baseline_comparison/discovered_tabular_baselines.csv
+artifacts/reports/notebook 10/baseline_comparison/discovered_tabular_baselines.csv
