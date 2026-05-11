@@ -2,17 +2,26 @@
 .venv_captum/
 .vscode/
 .ipynb_checkpoints/
+
 artefacts/cache/
+
+# Notebook 10 large/generated outputs
 artefacts/reports/notebook 10/baseline_comparison/discovered_tabular_baselines.csv
-artefacts/reports/notebook 10/results
-artefacts/reports/notebook 11/pathway/interpretability
-artefacts/reports/notebook 11/pathway/results
-artefacts/reports/notebook 11/pca/interpretability
-artefacts/reports/notebook 11/pca/results
-artefacts/reports/notebook 12/pathway/interpretability
-artefacts/reports/notebook 12/pathway/results
-artefacts/reports/notebook 12/pca/interpretability
-artefacts/reports/notebook 12/pca/results
+artefacts/reports/notebook 10/results/
+
+# Notebook 11 large/generated outputs
 artefacts/reports/notebook 11/pca/baseline_comparison/discovered_tabular_baselines.csv
+artefacts/reports/notebook 11/pca/baseline_comparison/discovered_tabular_baselines_raw.csv
+artefacts/reports/notebook 11/pca/interpretability/
+artefacts/reports/notebook 11/pca/results/
+
 artefacts/reports/notebook 11/pathway/baseline_comparison/discovered_tabular_baselines.csv
-artefacts/reports/notebook 10/baseline_comparison/discovered_tabular_baselines.csv
+artefacts/reports/notebook 11/pathway/baseline_comparison/discovered_tabular_baselines_raw.csv
+artefacts/reports/notebook 11/pathway/interpretability/
+artefacts/reports/notebook 11/pathway/results/
+
+# Notebook 12 large/generated outputs
+artefacts/reports/notebook 12/pathway/interpretability/
+artefacts/reports/notebook 12/pathway/results/
+artefacts/reports/notebook 12/pca/interpretability/
+artefacts/reports/notebook 12/pca/results/
